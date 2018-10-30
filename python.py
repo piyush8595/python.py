@@ -1,4 +1,4 @@
-class A(object): 
+class B(object): 
    def show(self): 
       print "A class method is called" 
   
